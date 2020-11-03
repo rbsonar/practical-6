@@ -1,0 +1,29 @@
+.bg{
+    background-color: coral;
+    height: 100vh;
+}
+.title{
+    text-align: center;
+    padding-top: 25px;
+}
+.title h1{
+    color: blue;
+}
+.form {
+    text-align: center;
+    overflow: auto;
+}
+
+input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+}
+
+#edit-box{
+    display: none;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.td{
+    background-color: blue ;
+}
